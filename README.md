@@ -1,1 +1,1 @@
-# simple-calculator(CUI)
+# Simple-Calculator(CUI)
